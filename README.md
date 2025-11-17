@@ -119,7 +119,7 @@ MIT License
 
 ## 👨‍💻 開発者
 
-**Professor** - AI研究者・大学教授  
+**Professor** - AI研究者・YouTube大学教授  
 専門分野: 海馬機能、AI応用神経科学、データセントリックAI
 
 ## 🤝 コントリビューション
